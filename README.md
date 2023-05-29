@@ -6,6 +6,16 @@ This is my personal portfolio where I showcase my projects and skills.
 
 I am a passionate developer with experience in web development and a focus on front-end technologies. I enjoy creating intuitive and user-friendly interfaces that provide a seamless user experience.
 
+## 🛠️ Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-3DDC84?style=for-the-badge&logo=css3&logoColor=white)
+
 ## Projects
 
 ### Project 1: Movie Time
@@ -27,16 +37,6 @@ I am a passionate developer with experience in web development and a focus on fr
   - [RAWG API](https://api.rawg.io/api/): This API is used to fetch information about games, genres, and upcoming releases. It provides access to a vast database of video game data, allowing Game World to display accurate and up-to-date information to users.
   - [Videogames News API](https://videogames-news2.p.rapidapi.com/videogames_news/): This API is used to retrieve news articles related to video games. It enables Game World to provide users with the latest news and updates from the gaming industry.
 - **Link**: [Game World Repository](https://github.com/LizzColDev/game-world)
-
-## 🛠️ Skills
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Responsive Web Design](https://img.shields.io/badge/Responsive_Web_Design-3DDC84?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📞 Contact Me
 
