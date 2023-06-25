@@ -1,10 +1,14 @@
 # 👋 Welcome to My Portfolio
 
-This is my personal portfolio where I showcase my projects and skills. 
-
 ## About Me
 
-I am a passionate developer with experience in web development and a focus on front-end technologies. I enjoy creating intuitive and user-friendly interfaces that provide a seamless user experience.
+Hey! I'm a full-stack developer with a passion for cats, reading, and of course, web development. With skills in HTML, CSS, JavaScript, and frameworks like React and Angular, I create engaging and functional web experiences.
+
+Outside of work, I enjoy diving into a good book 📚 and sharing my life with my adorable feline companions 🐾. I believe that my love for cats and reading shines through in my creative and unique approach to development projects.
+
+Also, if you're interested, you can check out my [course notes](https://www.notion.so/cf691948eb5240d599c8ec821d6ab627?v=d89f8b9a2bc9421fa0e38827bc68917c&pvs=4) to see what I've been learning.
+
+I'm thrilled to join an amazing team and contribute to the success of your company. Let's chat and create something awesome together! 🚀
 
 ## 🛠️ Skills
 
@@ -36,7 +40,8 @@ I am a passionate developer with experience in web development and a focus on fr
 - **API Integration**:
   - [RAWG API](https://api.rawg.io/api/): This API is used to fetch information about games, genres, and upcoming releases. It provides access to a vast database of video game data, allowing Game World to display accurate and up-to-date information to users.
   - [Videogames News API](https://videogames-news2.p.rapidapi.com/videogames_news/): This API is used to retrieve news articles related to video games. It enables Game World to provide users with the latest news and updates from the gaming industry.
-- **Link**: [Game World Repository](https://github.com/LizzColDev/game-world)
+- **Link to repository**: [Game World Repository](https://github.com/LizzColDev/game-world)
+- **Link**: [Game World](https://lizzcoldev.github.io/game-world/)
 
 ## 📞 Contact Me
 
