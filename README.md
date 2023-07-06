@@ -28,6 +28,8 @@ I'm thrilled to join an amazing team and contribute to the success of your compa
 - **Technologies Used**: HTML, CSS, JavaScript
 - **API Integration**: 
   - [The Movie DB API](https://www.themoviedb.org/documentation/api): This API is used to fetch movie data, including trending movies, movie categories, and movie details. Users are required to obtain an API key from The Movie DB to use the application and access the movie database.
+- **Docker Integration**:
+  - The project also includes a Dockerfile, allowing you to containerize and deploy the application using Docker.
 - **Link**: [Movie Time Repository](https://github.com/LizzColDev/movie-time/tree/github-pages)
 - **Demo**: 
 
