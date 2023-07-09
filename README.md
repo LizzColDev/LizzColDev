@@ -42,6 +42,8 @@ I'm thrilled to join an amazing team and contribute to the success of your compa
 - **API Integration**:
   - [RAWG API](https://api.rawg.io/api/): This API is used to fetch information about games, genres, and upcoming releases. It provides access to a vast database of video game data, allowing Game World to display accurate and up-to-date information to users.
   - [Videogames News API](https://videogames-news2.p.rapidapi.com/videogames_news/): This API is used to retrieve news articles related to video games. It enables Game World to provide users with the latest news and updates from the gaming industry.
+- **Docker Integration**:
+  - The project also includes a Dockerfile, allowing you to containerize and deploy the application using Docker.
 - **Link to repository**: [Game World Repository](https://github.com/LizzColDev/game-world)
 - **Link**: [Game World](https://lizzcoldev.github.io/game-world/)
 
