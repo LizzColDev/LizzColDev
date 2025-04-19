@@ -28,12 +28,12 @@ I'm thrilled to join an amazing team and contribute to the success of your compa
 
 ## Projects
 
-### Project 1: Movie Time
+### Project 1: Movie Time 
 
 - **Description**: This codebase represents a movie application that provides users with features such as trending movies, movie categories, movie search, and movie details. Users can also mark movies as "favorites" and view a list of their favorite movies. The application is developed using HTML, CSS, and JavaScript.
 - **Technologies Used**: HTML, CSS, JavaScript
 - **API Integration**: 
-  - [The Movie DB API](https://www.themoviedb.org/documentation/api): This API is used to fetch movie data, including trending movies, movie categories, and movie details. Users are required to obtain an API key from The Movie DB to use the application and access the movie database.
+  - [The Movie DB API](https://www.themoviedb.org/documentation/api): This API is used to fetch movie data, including trending movies, movie categories, and movie details. Users are required to obtain an API key from The Movie DB to use the application and access the movie database [Movie Time](https://lizzcoldev.github.io/movie-time/#category=10749-Romance)
 - **Docker Integration**:
   - The project also includes a Dockerfile, allowing you to containerize and deploy the application using Docker.
 - **Link**: [Movie Time Repository](https://github.com/LizzColDev/movie-time/tree/github-pages)
